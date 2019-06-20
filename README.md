@@ -1,10 +1,7 @@
----
-description: >-
-  This challenge involves guessing a Cloudinary transformation URL that produces
-  a given target image from one (or more) given source image(s).
----
-
 # Transformation Challenge
+
+This challenge involves guessing a Cloudinary transformation URL that produces
+  a given target image from one (or more) given source image(s).
 
 ## Source Images:
 
